@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+.hover-effect {
+  @apply hover:text-blue-500 cursor-pointer transition-all duration-500;
+}
+.menu-hover {
+  @apply px-4 py-3 border-b-2 border-gray-500 hover:bg-cyan-600 hover:text-white transition-all duration-500;
+}
+@tailwind utilities;

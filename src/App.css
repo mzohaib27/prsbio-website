@@ -1,0 +1,14 @@
+.bg-img {
+  background: url(../src/assets/bgimg6.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: darken;
+}
+.bg-img2 {
+  background: rgba(0, 0, 0, 0.4) url(../src/assets/bgimg6.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: darken;
+}
